@@ -72,3 +72,8 @@ class Mahasiswa extends CI_Controller {
 	}
 }
 HAI FERDI
+FERRRRR
+	ABAHHH
+	SUPENG
+	ADIT
+	SELENA
